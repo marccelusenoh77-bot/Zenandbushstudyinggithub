@@ -12,3 +12,5 @@ full workflow
 working directory-----> staging area------> local repository -----> remote repository
 
 <========= git add======><====== git commit =========>  <======= git push =========>
+
+it is wonderful to continue to learn on a daily basis because learning never ends.
