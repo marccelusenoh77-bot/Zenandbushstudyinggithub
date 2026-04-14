@@ -13,4 +13,4 @@ working directory-----> staging area------> local repository -----> remote repos
 
 <========= git add======><====== git commit =========>  <======= git push =========>
 
-it wonderful to continue to learn on a daily basis because learning never ends. 
+it is wonderful to continue to learn on a daily basis because learning never ends.
